@@ -2,7 +2,7 @@
 
 This folder contains a collection of machine learning notebooks covering classification, regression, NLP, time series, and data analysis tasks.
 
-## Notebook List
+## Notebook Lists
 
 - `01.ipynb` - General introductory machine learning notebook.
 - `02.Spam.ipynb` - Spam detection using text-based classification.
